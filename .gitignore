@@ -1,0 +1,9 @@
+# 펌웨어 원본·추출물은 올리지 않는다 (용량 크고, 재배포 지양)
+**/firmware/
+**/rootfs/
+**/extractions/
+*.img
+*.img.gz
+*.bin
+*.squashfs
+.DS_Store
